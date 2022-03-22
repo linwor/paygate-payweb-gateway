@@ -1,0 +1,22 @@
+{
+  "name": "linwor/paygate-payweb-gateway",
+  "description": "PayGate PayWeb Payment Gateway for Magento 2",
+  "type": "magento2-module",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "AppInlet (Pty) Ltd",
+      "email": "info@appinlet.com"
+    }
+  ],
+  "require": {
+    "php": "~7.4.0"
+  },
+  "autoload": {
+    "files": ["registration.php"],
+    "psr-4": {
+      "PayGate\\PayWeb\\": ""
+    }
+  }
+}
