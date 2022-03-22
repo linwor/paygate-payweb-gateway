@@ -2,7 +2,7 @@
   "name": "linwor/paygate-payweb-gateway",
   "description": "PayGate PayWeb Payment Gateway for Magento 2",
   "type": "magento2-module",
-  "version": "4.3.0",
+  "version": "4.3.1",
   "license": "proprietary",
   "authors": [
     {
