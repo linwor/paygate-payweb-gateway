@@ -16,7 +16,7 @@
   "autoload": {
     "files": ["registration.php"],
     "psr-4": {
-      "PayGate\\PayWeb\\": ""
+      "PayGate\\PayWeb\\": "paygate/paygate-payweb-gateway"
     }
   }
 }
